@@ -21,9 +21,10 @@
 </div>
 
 ### Contato:
-- Linkedln: <a href="www.linkedin.com/in/matheus-lima-a514b0238">Clique Aqui<a>
 - Email: contato.matheuslmachado@gmail.com
 - Tel: +55 (85) 997159638
+
+***Veja meus Projetos logo abaixo***
 <!-- - Potfólio: 
 
 <!--
