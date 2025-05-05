@@ -1,8 +1,17 @@
-## 👨‍💻 Matheus Lima
+## 👨‍💻 Olá, Sou Matheus Lima
 
-**Analista de Dados**
+- Seja bem-vindo ao meu espaço de desenvolvimento, sou graduando em Sistemas de Informação pela UNICHRISTUS. Sou apaixonado pelo de Dados e Tecnologia, venho desenvolvendo projetos na área de dados, na qual, venho me dedicando a estudos e produzindo projetos alinhadas a resolver problemas de negócios.
+  
+## Habilidade de Softskills:
 
-### 💻 Linguagens e Tecnologias
+- Dinamismo
+- Resiliencia
+- Vontade continua por aprender
+- Proatividade
+- Pensamento Analitico e Critico
+- Comunicação
+  
+## 💻 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000">
   <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000">
@@ -11,7 +20,11 @@
   
 </div>
 
-## Hi there 👋
+### Contato:
+- Linkedln: <a href="www.linkedin.com/in/matheus-lima-a514b0238">Clique Aqui<a>
+- Email: contato.matheuslmachado@gmail.com
+- Tel: +55 (85) 997159638
+<!-- - Potfólio: 
 
 <!--
 **Matheuslmachado/Matheuslmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
