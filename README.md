@@ -4,12 +4,11 @@
   
 ## Habilidade de Softskills:
 
-- Dinamismo
-- Resiliencia
-- Vontade continua por aprender
-- Proatividade
-- Pensamento Analitico e Critico
 - Comunicação
+- Dinamismmo
+- Vontade continua por aprender
+- Pensamento Analitico e Critico
+
   
 ## 💻 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
