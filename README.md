@@ -5,7 +5,7 @@
 ## Habilidade de Softskills:
 
 - Comunicação
-- Dinamismmo
+- Dinamismo
 - Vontade continua por aprender
 - Pensamento Analitico e Critico
 
